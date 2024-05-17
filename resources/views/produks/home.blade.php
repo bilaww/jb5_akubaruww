@@ -13,8 +13,8 @@
 
     <div class="section">
         <div class="container mt-5">
-            <h1 class="text-center my-4" style="color: #1f0f0f; font-weight: bolder">MS.Store</h1>
-            <a href="/produks" class="btn btn-md btn-success mb-3">DATA PRODUK</a>
+            <h1 class="text-center my-4" style="color: #1f0f0f; font-weight: bolder">FREESH FLOWER</h1>
+            <a href="/produks" class="btn btn-md btn-success mb-3">DATA BUNGA</a>
             <div style="background-color: white; padding: 10px auto">
                 <div class="box">
                     <div class="row">

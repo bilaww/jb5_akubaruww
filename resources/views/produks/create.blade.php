@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Tambah Data - MS.Store</title>
+    <title>Tambah Data - FREES FLOWER</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body style="background: #f7fbff">
@@ -31,8 +31,8 @@
                             </div>
 
                             <div class="form-group">
-                                <label class="font-weight-bold">NAMA PRODUK</label>
-                                <input type="text" class="form-control @error('nama_produk') is-invalid @enderror" name="nama_produk" value="{{ old('nama_produk') }}" placeholder="Masukkan Nama Produk">
+                                <label class="font-weight-bold">NAMA BUNGA</label>
+                                <input type="text" class="form-control @error('nama_produk') is-invalid @enderror" name="nama_produk" value="{{ old('nama_produk') }}" placeholder="Masukkan Nama produk">
                             
                                 <!-- error message untuk nama_produk -->
                                 @error('nama_produk')
